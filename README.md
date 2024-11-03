@@ -69,10 +69,6 @@ This system is designed as an assistive tool and should not replace other mobili
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/SrivardhanS/Smart_glass_for_visually_impaired/issues) if you want to contribute.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [MediaPipe](https://mediapipe.dev/) for the pose detection solution
